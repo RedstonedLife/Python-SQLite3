@@ -33,5 +33,5 @@ def change(table,user,value,newValue):
   # newValue should be the value you want to be set (e.g: 25) NOTE: It depends on what type of data you use in the table
   # for the value, If its varchar(255) give it a string, if its int(9-999) or numeric(9,2) give it numbers
   
-  # table should be the name of the table
+  # table should be the name of the table the data is saved on
   
